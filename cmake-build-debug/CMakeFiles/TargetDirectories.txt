@@ -1,0 +1,3 @@
+C:/Users/golem/CLionProjects/OU/cmake-build-debug/CMakeFiles/OU.dir
+C:/Users/golem/CLionProjects/OU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/golem/CLionProjects/OU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
